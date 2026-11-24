@@ -84,8 +84,8 @@ html, body {
 .left-decoration {
   position: absolute;
   left: -60%;
-  top: -100px;
-  width: 120px;
+  top: -40px;
+  width: 100px;
   height: auto;
   pointer-events: none;
 }
@@ -93,8 +93,8 @@ html, body {
 .right-decoration {
   position: absolute;
   right: -60%;
-  top: -100px;
-  width: 120px;
+  top: -40px;
+  width: 100px;
   height: auto;
   pointer-events: none;
 }
